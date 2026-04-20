@@ -1,0 +1,94 @@
+{
+  "total_regenerated": 160,
+  "improved": 125,
+  "degraded": 17,
+  "unchanged": 18,
+  "improved_pct": 78.12,
+  "degraded_pct": 10.62,
+  "avg_improvement": 0.1284,
+  "avg_degradation": -0.0393,
+  "top_examples": [
+    {
+      "original": "\", has generated significant excitement, leading to a million-copy first printing and a wave of nostalgia on social media.",
+      "regenerated": "According to the source, the announcement of the new Dr. Seuss book, \"What Pet Should I Get?\", has led to a million-copy first printing and a wave of nostalgia on social media. (Faithful)",
+      "orig_sim": 0.4434,
+      "regen_sim": 0.8295,
+      "diff": 0.3862,
+      "improvement": 0.3862
+    },
+    {
+      "original": "Similar allegations have been made in a California lawsuit.",
+      "regenerated": "A California lawsuit also makes accusations against SeaWorld regarding misleading the public about the welfare of their killer whales, specifically mentioning sunburns and food deprivation. (Note: The evidence does not provide enough details to confirm the exact allegations in the California lawsuit, such as forced breeding, inbreeding, or aggressive whales fighting each other.)",
+      "orig_sim": 0.4891,
+      "regen_sim": 0.8152,
+      "diff": 0.326,
+      "improvement": 0.326
+    },
+    {
+      "original": "She seeks ticket refunds for herself and millions of visitors.",
+      "regenerated": "Ms. Kuhl is requesting refunds for her own $97 ticket and is part of a larger group seeking refunds for an estimated 4.4 million visitors who attended SeaWorld's parks between October and December 2014.",
+      "orig_sim": 0.531,
+      "regen_sim": 0.8519,
+      "diff": 0.3209,
+      "improvement": 0.3209
+    },
+    {
+      "original": "The discovery highlights the importance of biodiversity conservation in the region, as the species may be under threat from illegal hunting and hydropower construction.",
+      "regenerated": "The discovery of the new primate species, the white-cheeked macaque, in southeastern Tibet underscores the significance of biodiversity conservation in the region, as the species may be under threat from illegal hunting and hydropower construction, according to the researchers involved in the study.",
+      "orig_sim": 0.5698,
+      "regen_sim": 0.8735,
+      "diff": 0.3037,
+      "improvement": 0.3037
+    },
+    {
+      "original": "The decision was made after controversy over Tenpenny's planned speaking tour in Australia resulted in threats of violence.",
+      "regenerated": "Following the controversy over her planned speaking tour in Australia, Dr. Tenpenny made the decision to cancel her remaining talks due to threats of violence against her, venue owners, and their families. (Faithful to the evidence)",
+      "orig_sim": 0.5996,
+      "regen_sim": 0.8898,
+      "diff": 0.2902,
+      "improvement": 0.2902
+    },
+    {
+      "original": "Despite the tragic news, the awareness and support for Hill's cause continued to grow, with many expressing their sadness and appreciation for her impact on their lives.",
+      "regenerated": "Thousands of people, including basketball fans and those not directly connected to the sport, expressed their sadness and support for Lauren Hill and her family on social media following the news of her death.",
+      "orig_sim": 0.5449,
+      "regen_sim": 0.8251,
+      "diff": 0.2802,
+      "improvement": 0.2802
+    },
+    {
+      "original": "Rescuers are working to recover survivors and the dead, as the number of casualties is expected to rise.",
+      "regenerated": "Rescuers are working to recover both survivors and the dead, as Nepalese officials speculate that the number of casualties could reach as high as 10,000. (Based on the context of the evidence, it is mentioned that more than 8,000 people were injured and the death toll had risen to 4,400 on Monday, but no exact number of survivors was given.)",
+      "orig_sim": 0.4885,
+      "regen_sim": 0.7659,
+      "diff": 0.2773,
+      "improvement": 0.2773
+    },
+    {
+      "original": "The authorities contacted the school after his plight gained worldwide attention, highlighting the stigma and discrimination faced by those with HIV in China, particularly in rural areas.",
+      "regenerated": "The Sichuan government contacted the school in Linfen after Kun Kun's case gained worldwide attention, revealing the stigma and discrimination towards HIV-positive individuals in China, specifically in rural areas, as highlighted in the article.",
+      "orig_sim": 0.531,
+      "regen_sim": 0.7971,
+      "diff": 0.2661,
+      "improvement": 0.2661
+    },
+    {
+      "original": "She denies the charges and argues that her work is art, despite facing up to two years in jail and thousands signing a petition for her release.",
+      "regenerated": "Japanese artist Megumi Igarashi maintains her innocence and asserts that her work is art, despite the potential penalty of up to two years in jail if convicted of obscenity charges. The defense team believes the arrest and court appearance are unwarranted for creating and distributing artworks. Igarashi was initially arrested in July and held in custody for around a month before being granted bail, but was re-arrested in December on three counts of distributing 'obscene' data. She could face up to two years in jail and/or a fine of as much as 2.5 million yen if convicted of distributing or possessing obscene materials for the purpose of selling.",
+      "orig_sim": 0.5838,
+      "regen_sim": 0.8341,
+      "diff": 0.2504,
+      "improvement": 0.2504
+    },
+    {
+      "original": "He aims to return in time for England's pre-World Cup preparations in the summer.",
+      "regenerated": "Manu Tuilagi is targeting a return to action during England's pre-World Cup preparations in the summer, as stated in the source.",
+      "orig_sim": 0.489,
+      "regen_sim": 0.7356,
+      "diff": 0.2466,
+      "improvement": 0.2466
+    }
+  ],
+  "dropped_score_mean": 0.5466,
+  "accepted_score_mean": 0.5735
+}

@@ -1,0 +1,14 @@
+{
+  "raw": {
+    "precision": 69.1821,
+    "recall": 62.2553,
+    "f1": 65.5247
+  },
+  "verified": {
+    "precision": 86.3313,
+    "recall": 74.3765,
+    "f1": 79.8805
+  },
+  "f1_change": 14.3558,
+  "precision_change": 17.1492
+}

@@ -1,0 +1,15 @@
+{
+  "model": "claude",
+  "raw": {
+    "precision": 86.2121,
+    "recall": 74.9923,
+    "f1": 80.1952
+  },
+  "verified": {
+    "precision": 85.9414,
+    "recall": 75.1571,
+    "f1": 80.1611
+  },
+  "f1_change": -0.0341,
+  "precision_change": -0.2707
+}

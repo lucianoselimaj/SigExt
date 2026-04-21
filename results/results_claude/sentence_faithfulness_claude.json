@@ -1,0 +1,94 @@
+{
+  "model": "claude",
+  "total_regenerated": 77,
+  "improved": 56,
+  "degraded": 16,
+  "unchanged": 5,
+  "improved_pct": 72.73,
+  "degraded_pct": 20.78,
+  "avg_improvement": 0.118,
+  "avg_degradation": -0.0695,
+  "top_examples": [
+    {
+      "original": "The fitness fanatic's coordinated running style\u2014complete with color-matched accessories\u2014showcases how to nail athletic fashion while staying active in the sunshine.",
+      "regenerated": "Keeping cool in the sunshine, Pippa teamed her bright coral vest with coordinating Adidas shorts and color-matched accessories, including pink laces in her running shoes that matched the Nike tick on her sports cap.",
+      "orig_sim": 0.4588,
+      "regen_sim": 0.936,
+      "diff": 0.4772,
+      "improvement": 0.4772
+    },
+    {
+      "original": "Despite the devastating diagnoses, unbearable back pain, and the challenges of undergoing chemotherapy while raising two young daughters, the couple maintains their fighting spirit, with Shelby even nicknaming her tumors the \"Tumah Tumah-nator,\" and both remain determined to seek advanced treatment options and clinical trials to beat their diseases.",
+      "regenerated": "Despite the devastating diagnoses and the challenges of undergoing chemotherapy while raising two small children, Shelby nicknamed her tumors and decided to \"terminate\" them.",
+      "orig_sim": 0.4433,
+      "regen_sim": 0.8451,
+      "diff": 0.4019,
+      "improvement": 0.4019
+    },
+    {
+      "original": "The teen, who moved to the US at age eight speaking no English, says he had to take advantage of the opportunities his parents gave him, joining other exceptional students like Victor Agbafe from Cape Fear Academy who was similarly accepted to top schools including Stanford.",
+      "regenerated": "The teen, who moved to the US at age eight speaking no English, says he had to take advantage of the opportunities his parents gave him. Another exceptional student, a 17-year-old from Cape Fear Academy, was accepted into 14 schools including Stanford and Duke.",
+      "orig_sim": 0.5768,
+      "regen_sim": 0.8282,
+      "diff": 0.2514,
+      "improvement": 0.2514
+    },
+    {
+      "original": "The Labour leader insisted voters would judge the election on other issues rather than these economic indicators.",
+      "regenerated": "The Labour leader rejected statistics on economic improvements, saying these facts were not what voters were talking about, and stated he would let people make their own judgment about whether economic indicators meant the economy was fixed.",
+      "orig_sim": 0.5106,
+      "regen_sim": 0.7591,
+      "diff": 0.2484,
+      "improvement": 0.2484
+    },
+    {
+      "original": "The north London club aims to open a new 56,000-seater stadium by the 2018-19 season.",
+      "regenerated": "UNSUPPORTED The evidence states that Spurs plan to open a new stadium \"in just over three years time\" (from an unspecified reference point) and mentions that designs were unveiled in December 2008 and progress was being made after March 2013, but it does not provide a specific target opening season like \"2018-19.\"",
+      "orig_sim": 0.5019,
+      "regen_sim": 0.7398,
+      "diff": 0.2379,
+      "improvement": 0.2379
+    },
+    {
+      "original": "Mr Dunning said he was still in shock at the win and plans to use his newfound wealth to purchase a new house and upgrade his car, though he could now easily afford luxury vehicles.",
+      "regenerated": "Mr Dunning said he kept the winning ticket in his wallet and kept checking to make sure it was still with him. He celebrates in a new Aston Martin, though his millions mean he could easily afford luxury vehicles like a Bugatti Veyron Super Sports.",
+      "orig_sim": 0.5843,
+      "regen_sim": 0.8156,
+      "diff": 0.2313,
+      "improvement": 0.2313
+    },
+    {
+      "original": "The two debated on the BBC's Andrew Marr Show over whether the Conservatives are out of touch with ordinary people and their commitment to NHS funding.",
+      "regenerated": "The two debated on the BBC's Andrew Marr Show over the Conservatives' commitment to NHS funding, with Ms Harman attacking their spending plans as 'absolutely illusory' and a threat to the NHS.",
+      "orig_sim": 0.5261,
+      "regen_sim": 0.7378,
+      "diff": 0.2117,
+      "improvement": 0.2117
+    },
+    {
+      "original": "to show his followers he's enjoying the summer while rehabilitating.",
+      "regenerated": "to show his followers he's enjoying the summer weather while rehabilitating from a serious knee injury.",
+      "orig_sim": 0.4135,
+      "regen_sim": 0.6218,
+      "diff": 0.2083,
+      "improvement": 0.2083
+    },
+    {
+      "original": "Philippe also expressed the ongoing pain his family endures, describing the accident as having collapsed their world and caused daily anguish as they hope for Jules to eventually emerge from his coma.",
+      "regenerated": "Philippe has spoken of the pain his family have felt every day since the accident, and his father opened up on the anguish he and his family have gone through since the accident over six months ago.",
+      "orig_sim": 0.5683,
+      "regen_sim": 0.7634,
+      "diff": 0.1951,
+      "improvement": 0.1951
+    },
+    {
+      "original": "Her iconic declaration to \"spend, spend, spend\" at the cheque presentation ceremony from Bruce Forsyth became so legendary that it inspired a BBC play and West End musical, though her life ultimately served as a cautionary tale about how sudden wealth without guidance can lead to personal turmoil and financial ruin.",
+      "regenerated": "Her iconic declaration to \"spend, spend, spend\" at the cheque presentation ceremony from Bruce Forsyth became so legendary that it inspired a musical starring Barbara Dickson based on her life story. **Explanation:** The evidence confirms the \"spend, spend, spend\" declaration at the cheque presentation ceremony with Bruce Forsyth and that it inspired a musical (Spend Spend Spend) starring Barbara Dickson based on Viv Nicholson's life. However, the evidence does not specify that it was a \"BBC play\" or confirm details about her life serving as a \"cautionary tale\" about financial ruin, so those claims were removed.",
+      "orig_sim": 0.5419,
+      "regen_sim": 0.7329,
+      "diff": 0.191,
+      "improvement": 0.191
+    }
+  ],
+  "dropped_score_mean": 0.5213
+}

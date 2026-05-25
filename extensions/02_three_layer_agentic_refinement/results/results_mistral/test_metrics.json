@@ -1,0 +1,15 @@
+{
+  "rouge1p": 32.4537,
+  "rouge1r": 50.1847,
+  "rouge1f": 37.8531,
+  "rouge2p": 11.7895,
+  "rouge2r": 18.1759,
+  "rouge2f": 13.7199,
+  "rougeLp": 20.0407,
+  "rougeLr": 31.4,
+  "rougeLf": 23.5087,
+  "rougeLsump": 28.1945,
+  "rougeLsumr": 43.5646,
+  "rougeLsumf": 32.8745,
+  "gen_len": 90.866
+}
